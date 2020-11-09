@@ -1,6 +1,8 @@
 # flashcards-app
 Build a deck of flashcards to memorize vocabulary, historical dates, formulas or any subject matter that can be learned via a question-and-answer format.
 
+[Project analysis (DRAFT)](https://github.com/Culdred/flashcards-app/blob/main/docs/project-analysis.md)
+
 ## Project setup
 ```
 npm install
